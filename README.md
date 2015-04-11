@@ -1,2 +1,83 @@
-# open-source-template
-A README template to encourage open-source contributions
+# Projet name
+
+## Vision
+
+*Approx 10-15 lines*.
+
+The aim of this project is …
+
+We’re solving … problem but you may also use this project to …
+
+## History
+
+We started this project on … for this particular use-case.
+
+We open-sourced it on … / since the beginning because …
+
+## Installation
+
+We’re using these technologies: … because …
+
+Once installed, you have to run these commands to setup the project:
+
+* pip install -r requirements/
+* bower install
+* fab runserver
+
+Enjoy!
+
+## Contributing
+
+We’re really happy to accept contributions from the community, that’s the main reason why we open-sourced it! There are many ways to contribute, even if you’re not a technical person.
+
+We’re using the infamous simplified Github workflow to accept modifications (even internally), basically you’ll have to:
+
+* create an issue related to the problem you want to fix (good for traceability and cross-reference)
+* fork the repository
+* create a branch (optionally with the reference to the issue in the name)
+* hack hack hack
+* commit incrementally with readable and detailed commit messages
+* submit a pull-request against the master branch of this repository
+
+We’ll take care of tagging your issue with the appropriated labels and answer within a week (hopefully less!) to the problem you encounter.
+
+If you’re not familiar with open-source workflows or our set of technologies, do not hesitate to ask for help! We can mentor you or propose good first bugs (as labeled in our issues).
+
+### Submitting bugs
+
+You can report issues directly on Github, that would be a really useful contribution given that we lack some user testing on the project. Please document as much as possible the steps to reproduce your problem (even better with screenshots).
+
+### Discussing strategies
+
+We’re trying to develop this project in the open as much as possible. We have a dedicated mailing-list where we discuss each new strategic change and invite the community to give a valuable feedback. You’re encouraged to subscribe to it and participate.
+
+### Adding documentation
+
+We’re doing our best to document each usage of the project but you can improve it or add you own sections. The documentation is available within the /docs/ folder. You don’t have to build anything, we’ll take care of it once your changes are merged.
+
+### Improving User eXperience
+
+You don’t have to install the whole project to fix a CSS or UI bug. We’re using a static styleguide that you can access to within the /statics/styleguide/ folder. You can edit the CSS/templates and just load the plain HTML page to see your changes. Once your pull-request merged, we’ll take care of integrating it within the whole project for you.
+
+### Hacking backend
+
+Hello fellow hacker, it’s good to have you on board! There is an extra step to install development dependencies if you plan to modify our core server:
+
+* pip install -r requirements/dev.txt
+
+Once you did it, the server will reload automagically upon your changes of the source code. You have to run tests periodically though to ensure that your changes don’t break existing functionalities. Our continuous integration server will run the whole test suite once you submit your pull-request (approx. 5 minutes).
+
+## Financing
+
+We accept donations and we have a bounty program to develop some big features:
+
+* A plugin architecture - 3000$
+* Accepting custom themes - 1000$
+
+Please contact us if you want to collaborate on those features or mutualize your costs with other people/companies. If you pay for these developments, we offer half a day of support for you and your team.
+
+Note that each feature will be discussed and developed in the open with the whole community, financing bounties doesn’t give you a stronger voice. If you’re looking for personal/closed-source improvements we can do consulting too.
+
+## License
+
+We’re using the … license because we believe in …
