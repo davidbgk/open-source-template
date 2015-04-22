@@ -30,7 +30,7 @@ Enjoy!
 
 We’re really happy to accept contributions from the community, that’s the main reason why we open-sourced it! There are many ways to contribute, even if you’re not a technical person.
 
-We’re using the infamous simplified Github workflow to accept modifications (even internally), basically you’ll have to:
+We’re using the infamous [simplified Github workflow](http://scottchacon.com/2011/08/31/github-flow.html) to accept modifications (even internally), basically you’ll have to:
 
 * create an issue related to the problem you want to fix (good for traceability and cross-reference)
 * fork the repository
@@ -41,7 +41,7 @@ We’re using the infamous simplified Github workflow to accept modifications (e
 
 We’ll take care of tagging your issue with the appropriated labels and answer within a week (hopefully less!) to the problem you encounter.
 
-If you’re not familiar with open-source workflows or our set of technologies, do not hesitate to ask for help! We can mentor you or propose good first bugs (as labeled in our issues).
+If you’re not familiar with open-source workflows or our set of technologies, do not hesitate to ask for help! We can mentor you or propose good first bugs (as labeled in our issues). Also welcome to add your name to Credits section of this document.
 
 ### Submitting bugs
 
@@ -57,7 +57,7 @@ We’re doing our best to document each usage of the project but you can improve
 
 ### Improving User eXperience
 
-You don’t have to install the whole project to fix a CSS or UI bug. We’re using a static styleguide that you can access to within the /statics/styleguide/ folder. You can edit the CSS/templates and just load the plain HTML page to see your changes. Once your pull-request merged, we’ll take care of integrating it within the whole project for you.
+You don’t have to install the whole project to fix a CSS or UI bug. We’re using a static [styleguide](http://styleguides.io/) that you can access to within the /statics/styleguide/ folder. You can edit the CSS/templates and just load the plain HTML page to see your changes. Once your pull-request merged, we’ll take care of integrating it within the whole project for you.
 
 ### Hacking backend
 
@@ -78,6 +78,24 @@ Please contact us if you want to collaborate on those features or mutualize your
 
 Note that each feature will be discussed and developed in the open with the whole community, financing bounties doesn’t give you a stronger voice. If you’re looking for personal/closed-source improvements we can do consulting too.
 
+## Versioning
+
+Version numbering follows the [Semantic versioning](http://semver.org/) approach.
+
 ## License
 
 We’re using the … license because we believe in …
+
+## Rationale for forking (optional)
+
+We forked that project because:
+
+* it has been rather poorly maintained for x years
+* we would like to develop … feature
+* we disagree on the governance of the project
+* etc
+
+## Credits
+
+* [John Snow](http://gameofthrones.wikia.com/wiki/Jon_Snow)
+* etc
