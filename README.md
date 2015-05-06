@@ -8,6 +8,18 @@ The aim of this project is …
 
 We’re solving … problem but you may also use this project to …
 
+## Language
+
+The development language is English. All comments and documentation should be written in English, so that we don't end up with “franglais” methods, and so we can share our learnings with developers around the world.
+
+However, the domain language is French. We consider each tax, collecting organism and French regulation as a domain-specific term. In the same fashion, well-known abbreviations of these domain-specific terms are accepted.
+
+OR
+
+Par souci de lisibilité pour les partenaires, la langue utilisée pour la description et le suivi de fonctionnalités est le français.
+
+En revanche, pour éviter le coût du changement de contexte, les discussions techniques peuvent se faire en anglais, la langue la plus utilisée dans le cadre du développement logiciel.
+
 ## History
 
 We started this project on … for this particular use-case.
