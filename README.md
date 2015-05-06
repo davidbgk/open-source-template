@@ -83,8 +83,8 @@ Once you did it, the server will reload automagically upon your changes of the s
 
 We accept donations and we have a bounty program to develop some big features:
 
-* A plugin architecture - 3000$
-* Accepting custom themes - 1000$
+* A plugin architecture - 3000€
+* Accepting custom themes - 1000€
 
 Please contact us if you want to collaborate on those features or mutualize your costs with other people/companies. If you pay for these developments, we offer half a day of support for you and your team.
 
