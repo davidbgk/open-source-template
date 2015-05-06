@@ -32,9 +32,11 @@ We’re using these technologies: … because …
 
 Once installed, you have to run these commands to setup the project:
 
-* pip install -r requirements/
-* bower install
-* fab runserver
+```shell
+pip install -r requirements/
+bower install
+fab runserver
+```
 
 Enjoy!
 
@@ -75,7 +77,7 @@ You don’t have to install the whole project to fix a CSS or UI bug. We’re us
 
 Hello fellow hacker, it’s good to have you on board! There is an extra step to install development dependencies if you plan to modify our core server:
 
-* pip install -r requirements/dev.txt
+* `pip install -r requirements/dev.txt`
 
 Once you did it, the server will reload automagically upon your changes of the source code. You have to run tests periodically though to ensure that your changes don’t break existing functionalities. Our continuous integration server will run the whole test suite once you submit your pull-request (approx. 5 minutes).
 
