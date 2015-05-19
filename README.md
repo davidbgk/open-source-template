@@ -1,4 +1,4 @@
-# Projet name
+# Project name
 
 ## Vision
 
