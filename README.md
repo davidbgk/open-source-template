@@ -81,6 +81,11 @@ Hello fellow hacker, it’s good to have you on board! There is an extra step to
 
 Once you did it, the server will reload automagically upon your changes of the source code. You have to run tests periodically though to ensure that your changes don’t break existing functionalities. Our continuous integration server will run the whole test suite once you submit your pull-request (approx. 5 minutes).
 
+Commit messages should be formatted using [AngularJS conventions](http://goo.gl/QpbS7) (one-liners are OK for now but body and footer may be required as the project matures).
+
+Comments follow [Google's style guide](http://google-styleguide.googlecode.com/svn/trunk/pyguide.html#Comments).
+
+
 ## Financing
 
 We accept donations and we have a bounty program to develop some big features:
