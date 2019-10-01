@@ -139,4 +139,4 @@ We forked that project because:
 ## Credits
 
 * [John Snow](http://gameofthrones.wikia.com/wiki/Jon_Snow)
-* etc
+* etc.
